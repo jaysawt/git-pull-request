@@ -1,1 +1,2 @@
 just an example.
+adding text to create conflicts.
